@@ -1,6 +1,6 @@
 ## Hi there 👋
 Technical Stack
-*   Java lang
+*   Java, Kotlin, C# languages
 *   MySQL, PostgreSQL, MSSQL
 
 
