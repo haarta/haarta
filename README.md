@@ -3,6 +3,6 @@ Technical Stack
 *   Java, Kotlin, C# languages
 *   MySQL, PostgreSQL, MSSQL
 
-# (MostUsedLang)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/haarta=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
