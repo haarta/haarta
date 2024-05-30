@@ -4,5 +4,4 @@ Technical Stack
 *   MySQL, PostgreSQL, MSSQL
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/haarta=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haarta)](https://github.com/haarta/github-readme-stats)
