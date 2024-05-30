@@ -4,6 +4,7 @@ Technical Stack
 *   MySQL, PostgreSQL, MSSQL
 
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=haarta"/> 
+<img alt="my stats" align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=haarta"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haarta)](https://github.com/ahaarta/github-readme-stats)
+<img alt="my lang" align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haarta"/>
+
