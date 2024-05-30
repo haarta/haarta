@@ -4,4 +4,4 @@ Technical Stack
 *   MySQL, PostgreSQL, MSSQL
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=haarta)](https://github.com/haarta/github-readme-stats">
+<img alt = "my stats" src="https://github-readme-stats.vercel.app/api?username=haarta)](https://github.com/haarta/github-readme-stats"/>
